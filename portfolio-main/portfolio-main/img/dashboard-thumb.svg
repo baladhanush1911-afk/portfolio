@@ -1,0 +1,27 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="#0A1220"/>
+  <rect x="42" y="42" width="1116" height="716" rx="30" fill="url(#bg2)" stroke="#223A55"/>
+  <rect x="92" y="92" width="220" height="616" rx="28" fill="#10233A"/>
+  <rect x="348" y="92" width="760" height="120" rx="28" fill="#10233A"/>
+  <rect x="348" y="246" width="360" height="212" rx="28" fill="#122946"/>
+  <rect x="748" y="246" width="360" height="212" rx="28" fill="#122946"/>
+  <rect x="348" y="492" width="760" height="176" rx="28" fill="#122946"/>
+  <text x="124" y="168" fill="#3DD6C6" font-family="Arial, sans-serif" font-size="34" font-weight="700">DASHBOARD</text>
+  <rect x="124" y="210" width="120" height="12" rx="6" fill="#90A4BE"/>
+  <rect x="124" y="252" width="146" height="12" rx="6" fill="#90A4BE"/>
+  <rect x="124" y="294" width="132" height="12" rx="6" fill="#90A4BE"/>
+  <rect x="124" y="336" width="158" height="12" rx="6" fill="#90A4BE"/>
+  <text x="388" y="164" fill="#E3ECF6" font-family="Arial, sans-serif" font-size="68" font-weight="700">BM Shop Dashboard</text>
+  <rect x="388" y="282" width="130" height="96" rx="18" fill="#3DD6C6"/>
+  <rect x="550" y="282" width="110" height="96" rx="18" fill="#FF8F5C"/>
+  <rect x="788" y="286" width="278" height="18" rx="9" fill="#DCE8F4"/>
+  <rect x="788" y="324" width="236" height="18" rx="9" fill="#90A4BE"/>
+  <rect x="388" y="536" width="668" height="22" rx="11" fill="#DCE8F4"/>
+  <rect x="388" y="578" width="574" height="22" rx="11" fill="#90A4BE"/>
+  <defs>
+    <linearGradient id="bg2" x1="70" y1="72" x2="1120" y2="742" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10233C"/>
+      <stop offset="1" stop-color="#0B172A"/>
+    </linearGradient>
+  </defs>
+</svg>

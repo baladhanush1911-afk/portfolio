@@ -1,0 +1,22 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="#09111F"/>
+  <rect x="42" y="42" width="1116" height="716" rx="30" fill="url(#bg4)" stroke="#223A55"/>
+  <rect x="220" y="106" width="760" height="588" rx="34" fill="#10233A"/>
+  <text x="294" y="188" fill="#E3ECF6" font-family="Arial, sans-serif" font-size="64" font-weight="700">Todo List</text>
+  <rect x="294" y="232" width="612" height="58" rx="18" fill="#122946"/>
+  <rect x="328" y="326" width="34" height="34" rx="10" stroke="#3DD6C6" stroke-width="6"/>
+  <rect x="392" y="332" width="340" height="18" rx="9" fill="#DCE8F4"/>
+  <rect x="328" y="404" width="34" height="34" rx="10" fill="#3DD6C6"/>
+  <path d="M338 420L348 430L365 411" stroke="#08111E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="392" y="410" width="280" height="18" rx="9" fill="#DCE8F4"/>
+  <rect x="328" y="482" width="34" height="34" rx="10" stroke="#FF8F5C" stroke-width="6"/>
+  <rect x="392" y="488" width="374" height="18" rx="9" fill="#DCE8F4"/>
+  <rect x="328" y="560" width="34" height="34" rx="10" stroke="#3A5372" stroke-width="6"/>
+  <rect x="392" y="566" width="234" height="18" rx="9" fill="#90A4BE"/>
+  <defs>
+    <linearGradient id="bg4" x1="84" y1="70" x2="1110" y2="742" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10233C"/>
+      <stop offset="1" stop-color="#0B1627"/>
+    </linearGradient>
+  </defs>
+</svg>

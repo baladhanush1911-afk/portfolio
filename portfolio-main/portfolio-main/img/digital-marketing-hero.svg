@@ -1,0 +1,60 @@
+<svg width="1200" height="1100" viewBox="0 0 1200 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1100" rx="48" fill="#0B1728"/>
+  <rect x="48" y="48" width="1104" height="1004" rx="40" fill="url(#bg)" stroke="#28415F"/>
+  <circle cx="930" cy="178" r="110" fill="#15365A"/>
+  <circle cx="930" cy="178" r="70" fill="#1D4A75"/>
+  <rect x="96" y="96" width="1008" height="120" rx="28" fill="#10233A"/>
+  <circle cx="146" cy="156" r="12" fill="#FF8F5C"/>
+  <circle cx="182" cy="156" r="12" fill="#3DD6C6"/>
+  <circle cx="218" cy="156" r="12" fill="#8FA6C2"/>
+  <text x="278" y="168" fill="#E5EEF9" font-family="Arial, sans-serif" font-size="34" font-weight="700">Digital Marketing Growth System</text>
+  <rect x="96" y="260" width="510" height="740" rx="32" fill="#10233A"/>
+  <text x="144" y="330" fill="#3DD6C6" font-family="Arial, sans-serif" font-size="30" font-weight="700">CAMPAIGN DASHBOARD</text>
+  <rect x="144" y="370" width="188" height="148" rx="24" fill="#15365A"/>
+  <rect x="360" y="370" width="198" height="148" rx="24" fill="#15365A"/>
+  <rect x="144" y="554" width="414" height="184" rx="28" fill="#122946"/>
+  <rect x="144" y="770" width="414" height="182" rx="28" fill="#122946"/>
+  <text x="174" y="448" fill="#FF8F5C" font-family="Arial, sans-serif" font-size="56" font-weight="700">+128%</text>
+  <text x="174" y="486" fill="#8FA6C2" font-family="Arial, sans-serif" font-size="24">Ad reach growth</text>
+  <text x="390" y="448" fill="#3DD6C6" font-family="Arial, sans-serif" font-size="56" font-weight="700">842</text>
+  <text x="390" y="486" fill="#8FA6C2" font-family="Arial, sans-serif" font-size="24">Qualified leads</text>
+  <path d="M176 682C214 640 242 622 280 624C318 626 336 676 380 674C418 672 438 630 490 584" stroke="#3DD6C6" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="176" cy="682" r="10" fill="#3DD6C6"/>
+  <circle cx="280" cy="624" r="10" fill="#3DD6C6"/>
+  <circle cx="380" cy="674" r="10" fill="#3DD6C6"/>
+  <circle cx="490" cy="584" r="10" fill="#3DD6C6"/>
+  <rect x="176" y="814" width="96" height="18" rx="9" fill="#DCE8F4"/>
+  <rect x="176" y="850" width="192" height="18" rx="9" fill="#90A4BE"/>
+  <rect x="176" y="886" width="144" height="18" rx="9" fill="#90A4BE"/>
+  <circle cx="472" cy="860" r="42" fill="#FF8F5C"/>
+  <path d="M458 842L493 860L458 878V842Z" fill="#0B1728"/>
+  <rect x="650" y="260" width="454" height="320" rx="32" fill="#10233A"/>
+  <text x="696" y="330" fill="#FF8F5C" font-family="Arial, sans-serif" font-size="30" font-weight="700">SOCIAL + CONTENT</text>
+  <rect x="696" y="370" width="362" height="164" rx="28" fill="#122946"/>
+  <rect x="730" y="404" width="154" height="96" rx="20" fill="#FF8F5C" fill-opacity="0.2"/>
+  <rect x="914" y="404" width="110" height="18" rx="9" fill="#DCE8F4"/>
+  <rect x="914" y="438" width="82" height="18" rx="9" fill="#90A4BE"/>
+  <rect x="914" y="472" width="96" height="18" rx="9" fill="#90A4BE"/>
+  <path d="M778 430C796 454 808 474 818 500C840 476 850 452 864 430" stroke="#3DD6C6" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="782" cy="418" r="12" fill="#3DD6C6"/>
+  <circle cx="858" cy="418" r="12" fill="#3DD6C6"/>
+  <rect x="650" y="616" width="454" height="384" rx="32" fill="#10233A"/>
+  <text x="696" y="686" fill="#3DD6C6" font-family="Arial, sans-serif" font-size="30" font-weight="700">WEBSITE + LEAD FLOW</text>
+  <rect x="696" y="726" width="182" height="218" rx="26" fill="#122946"/>
+  <rect x="724" y="758" width="126" height="22" rx="11" fill="#DCE8F4"/>
+  <rect x="724" y="796" width="98" height="18" rx="9" fill="#90A4BE"/>
+  <rect x="724" y="834" width="126" height="44" rx="16" fill="#FF8F5C"/>
+  <rect x="906" y="726" width="150" height="96" rx="24" fill="#15365A"/>
+  <rect x="906" y="850" width="150" height="94" rx="24" fill="#15365A"/>
+  <text x="934" y="786" fill="#E5EEF9" font-family="Arial, sans-serif" font-size="34" font-weight="700">SEO</text>
+  <text x="944" y="910" fill="#E5EEF9" font-family="Arial, sans-serif" font-size="30" font-weight="700">ADS</text>
+  <path d="M956 766L980 742L1014 776L1042 734" stroke="#3DD6C6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M944 910H1018" stroke="#FF8F5C" stroke-width="8" stroke-linecap="round"/>
+  <path d="M944 934H996" stroke="#FF8F5C" stroke-width="8" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="bg" x1="84" y1="72" x2="1100" y2="1034" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10233C"/>
+      <stop offset="1" stop-color="#091525"/>
+    </linearGradient>
+  </defs>
+</svg>

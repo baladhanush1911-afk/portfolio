@@ -1,0 +1,27 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="#09111F"/>
+  <rect x="42" y="42" width="1116" height="716" rx="30" fill="url(#bg3)" stroke="#223A55"/>
+  <rect x="82" y="98" width="1036" height="72" rx="20" fill="#10233A"/>
+  <rect x="82" y="214" width="316" height="444" rx="28" fill="#10233A"/>
+  <rect x="430" y="214" width="316" height="444" rx="28" fill="#10233A"/>
+  <rect x="778" y="214" width="316" height="444" rx="28" fill="#10233A"/>
+  <rect x="132" y="266" width="216" height="162" rx="24" fill="#3DD6C6" fill-opacity="0.2"/>
+  <rect x="480" y="266" width="216" height="162" rx="24" fill="#FF8F5C" fill-opacity="0.2"/>
+  <rect x="828" y="266" width="216" height="162" rx="24" fill="#DCE8F4" fill-opacity="0.12"/>
+  <text x="90" y="154" fill="#E3ECF6" font-family="Arial, sans-serif" font-size="34" font-weight="700">E-commerce Website</text>
+  <text x="140" y="372" fill="#3DD6C6" font-family="Arial, sans-serif" font-size="60" font-weight="700">SHOP</text>
+  <text x="506" y="372" fill="#FF8F5C" font-family="Arial, sans-serif" font-size="60" font-weight="700">STORE</text>
+  <text x="866" y="372" fill="#E3ECF6" font-family="Arial, sans-serif" font-size="60" font-weight="700">CART</text>
+  <rect x="132" y="470" width="186" height="16" rx="8" fill="#DCE8F4"/>
+  <rect x="132" y="502" width="152" height="16" rx="8" fill="#90A4BE"/>
+  <rect x="480" y="470" width="186" height="16" rx="8" fill="#DCE8F4"/>
+  <rect x="480" y="502" width="152" height="16" rx="8" fill="#90A4BE"/>
+  <rect x="828" y="470" width="186" height="16" rx="8" fill="#DCE8F4"/>
+  <rect x="828" y="502" width="152" height="16" rx="8" fill="#90A4BE"/>
+  <defs>
+    <linearGradient id="bg3" x1="84" y1="60" x2="1110" y2="742" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10233C"/>
+      <stop offset="1" stop-color="#0A1425"/>
+    </linearGradient>
+  </defs>
+</svg>
